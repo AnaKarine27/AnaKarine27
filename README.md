@@ -1,9 +1,16 @@
 <h2 align="center">Olá! Eu sou a Karine. Seja bem vindo ao meu GitHub!</h2>
+
+<h3 align="center" color=\"red\"> WEB DEVELOPER FRONT-END</h3>
+
+🌱Atualmente sou estudante  e aprimorando as seguintes tecnologias:
+<p align="center"> React.js, MySQL, Javascript, Typescript, Node, Git, HTML, CSS</p>
+
 <div align="center">
   <a href="https://github.com/AnaKarine27">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AnaKarine27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaKarine27&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
