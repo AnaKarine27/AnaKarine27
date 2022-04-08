@@ -48,6 +48,3 @@
 </div>
   
   ##
-
-  
-  ![Snake em construção](https://github.com/AnaKarine27/AnaKarine27/blob/output/github-contribution-grid-snake.svg)
