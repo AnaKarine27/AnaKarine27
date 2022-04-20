@@ -3,9 +3,6 @@
 <h3 align="center" color=\"red\"> WEB DEVELOPER FRONT-END</h3>
 
 </br>
-</br>
-
-</br>
 
 <h2> 📄 Sobre mim </h2>
  <p align="center">Estou iniciando minha carreira como Desenvolvedora Web Front-End. No momento estou em formação pelo curso intensivo de Desenvolvimento Web Full Stack da Labenu, no qual todos os dias realizamos projetos em grupos e individuais. Até aqui pude desenvolver minhas habilidades em Git, HTML, CSS, JavaScript, React JS, incluindo também React Hooks, Context, Router, Styled-Components e APIS Rest. Pude também aprender a trabalhar em grupo a partir dos projetos e a desenvolver minhas soft skills. Ainda estou em processo de conhecimento das tecnologias que o Back-End envolve.</p>
