@@ -1,4 +1,4 @@
-<h2 align="center">Olá, Tudo bom? Eu sou a <a href="https://www.linkedin.com/in/ana-karine-739b94142/"><i>Ana Karine!</i></a> Seja bem vindo ao meu GitHub!😊</h2>
+<h1 align="center"> Hey, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> tudo bom? Bem vindo ao meu GitHub!</h1>
 
 <h3 align="center" color=\"red\"> WEB DEVELOPER FRONT-END</h3>
 
@@ -34,4 +34,7 @@
  <p>Sinta-se à vontade para entrar em contato comigo!</p>
 </div>
   
+  
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ 
  ##
