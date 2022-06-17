@@ -33,8 +33,5 @@
  <a href = "https://api.whatsapp.com/send?phone=5586988088276"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <p>Sinta-se à vontade para entrar em contato comigo!</p>
 </div>
-  
-  
-![Snake animation](https://github.com/AnaKarine27/AnaKarine27/blob/output/github-contribution-grid-snake.svg)
- 
+
  ##
