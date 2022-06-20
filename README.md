@@ -9,14 +9,14 @@
 </br>- Sempre pronta para aplicar meus conhecimentos e dedicação em uma oportunidade que me proporcione novas experiências e aprendizados. <img src="https://user-images.githubusercontent.com/94838711/174660074-fa0500ec-44b1-44cc-8778-c46cb8c4012a.gif" height="20"> 
 </em></p>
 
-## <img src="https://user-images.githubusercontent.com/94838711/174662751-51e38647-9dc7-4364-8f94-9057f3cb823d.gif" width="40"> Entre em contato comigo
+### <img src="https://user-images.githubusercontent.com/94838711/174662751-51e38647-9dc7-4364-8f94-9057f3cb823d.gif" width="40"> Entre em contato comigo
 <div align="left">
   <a href="https://www.linkedin.com/in/ana-karine-739b94142/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" width="42" alt="linkedin logo" /></a>
  <a href = "mailto:karinesantos364@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="42" alt="gmail logo"  /></a>
   <a href = "https://api.whatsapp.com/send?phone=5586988088276"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" width="42" alt="whatsapp logo"  /></a>
 </div>
  
- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
  
  ```javascript
 const Karine = {
