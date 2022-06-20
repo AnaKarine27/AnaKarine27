@@ -9,6 +9,14 @@
 ### Link Surge 
 https://site_labex.surge.sh/
 
+## 🛠 Tecnologias
+Ferramentas usadas na construção do projeto:
+
+- React JS
+- Styled-components
+- Integração com API
+- Axios
+
 ### Imagens
 ![image](https://user-images.githubusercontent.com/94838711/154823790-58adf89b-5e2e-4f3c-adfd-d9fd6f6572bc.png)
 ![image](https://user-images.githubusercontent.com/94838711/154823797-7f71365d-ddb7-4d59-a7f1-91092de1310b.png)
