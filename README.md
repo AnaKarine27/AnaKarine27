@@ -1,10 +1,31 @@
-<h1 align="center"> Hey, <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> tudo bom? Bem vindo ao meu GitHub!</h1>
 
-<h3 align="center" color=\"red\"> WEB DEVELOPER FRONT-END</h3>
+<h2> Hey, tudo bom? Bem vindo ao meu GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em> - Web Developer Front-end pela<a href="http://www.unb.br](https://www.labenu.com.br/)"> Labenu </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> - Buscando desenvolver minhas habilidades em UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ </br>- Sempre pronta para aplicar minha dedicação e empenho em uma oportunidade que me proporcione novas experiências e conhecimentos. <img src="https://user-images.githubusercontent.com/94838711/174660074-fa0500ec-44b1-44cc-8778-c46cb8c4012a.gif" height="20"> 
+</em></p>
 
-<p align="center">🌱 Em formação pelo curso de Desenvolvimento Web Full Stack na Labenu. </p>
 
-</br>
+
+
+<h3 align="center" color=\"red\"> 𝑰❤️𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h3>
+
+ 
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
+ 
+ ```javascript
+const Karine = {
+  pronomes: "ela" | "dela",
+  tecnologias: [Javascript, Typescript, HTML, CSS],
+  ferramentas: [React JS, Hooks, Global Context, Styled-Components, Axios, 
+  Git, GitHub, GitLab, API Rest, Metodologias Ágeis], 
+  desafio: "Buscar constantemente me aperfeiçoar e aprofundar meus conhecimentos em tecnologia".
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Amo me conectar com pessoas diferentes, então se você quiser dizer oi, ficarei feliz em conhecê-lo mais! :)</b></em>
+
+---
  
  <div align="center">
   <img align="center" alt="img-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
