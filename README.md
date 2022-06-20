@@ -42,10 +42,10 @@ const Karine = {
 </br>
 </br>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" >
   <a href="https://github.com/AnaKarine27">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=AnaKarine27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaKarine27&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=AnaKarine27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaKarine27&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
