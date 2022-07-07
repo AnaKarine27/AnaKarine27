@@ -17,7 +17,7 @@ Ferramentas usadas na construção do projeto:
 - Integração com API
 - Axios
 
-### Imagens
+## Imagens do Web Site
 ![image](https://user-images.githubusercontent.com/94838711/154823790-58adf89b-5e2e-4f3c-adfd-d9fd6f6572bc.png)
 ![image](https://user-images.githubusercontent.com/94838711/154823797-7f71365d-ddb7-4d59-a7f1-91092de1310b.png)
 ![image](https://user-images.githubusercontent.com/94838711/154823802-caa00f59-2c42-471a-b64f-69f6ba66f456.png)
@@ -26,3 +26,12 @@ Ferramentas usadas na construção do projeto:
 ![image](https://user-images.githubusercontent.com/94838711/154823822-d7524c1f-88c9-4873-b5b8-4c42ffba1199.png)
 ![image](https://user-images.githubusercontent.com/94838711/154824470-e6446da9-826a-4047-9106-f14f57bbefb3.png)
 ![image](https://user-images.githubusercontent.com/94838711/154824460-9af85fe3-1e22-49d7-a664-af3c4084780e.png)
+
+## Desenvolvido por:
+
+<table> 
+<tr>
+ 
+ <td align="center"><a href="https://github.com/future4code/vaughan-Ana-Silva"><img style="border-radius: 50%" src="https://user-images.githubusercontent.com/94838711/158080211-ef52ad45-7600-4479-998b-f6c423de7576.png" width="100px" alt=""/>
+ <br />
+ <sub><b>Ana Karine</b></sub></a> <a href="https://github.com/future4code/vaughan-Ana-Silva">👩🏻‍💻</a></td>
