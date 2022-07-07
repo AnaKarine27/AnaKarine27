@@ -32,6 +32,6 @@ Ferramentas usadas na construção do projeto:
 <table> 
 <tr>
  
- <td align="center"><a href="https://github.com/future4code/vaughan-Ana-Silva"><img style="border-radius: 50%" src="https://user-images.githubusercontent.com/94838711/158080211-ef52ad45-7600-4479-998b-f6c423de7576.png" width="100px" alt=""/>
+ <td align="center"><a href="https://github.com/AnaKarine27"><img style="border-radius: 50%" src="https://user-images.githubusercontent.com/94838711/158080211-ef52ad45-7600-4479-998b-f6c423de7576.png" width="100px" alt=""/>
  <br />
- <sub><b>Ana Karine</b></sub></a> <a href="https://github.com/future4code/vaughan-Ana-Silva">👩🏻‍💻</a></td>
+ <sub><b>Ana Karine</b></sub></a> <a href="https://github.com/AnaKarine27">👩🏻‍💻</a></td>
