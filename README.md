@@ -5,7 +5,6 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em> - Web Developer Front-end pela<a href="https://www.labenu.com.br/"> Labenu </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br> - Buscando desenvolver minhas habilidades em UX/UI Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br>- Sempre pronta para aplicar meus conhecimentos e dedicação em uma oportunidade que me proporcione novas experiências e aprendizados. <img src="https://user-images.githubusercontent.com/94838711/174660074-fa0500ec-44b1-44cc-8778-c46cb8c4012a.gif" height="20"> 
 </em></p>
 
