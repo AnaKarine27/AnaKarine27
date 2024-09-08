@@ -19,7 +19,6 @@
  
  ```javascript
 const Karine = {
-  pronomes: "ela" | "dela",
   tecnologias: [Javascript, Typescript, HTML, CSS],
   ferramentas: [React JS, Hooks, Global Context, Styled-Components, Axios, 
   Git, GitHub, GitLab, API Rest, Metodologias Ágeis], 
