@@ -1,5 +1,6 @@
 
-<h2> Olá, bem vindo! Eu sou <a href="https://www.linkedin.com/in/ana-karine-739b94142/">Ana Karine</a> </h2>
+<h2> Olá, bem vindo! Eu sou <a href="https://www.linkedin.com/in/ana-karine-silva-11183a364/">Ana Karine</a> </h2>
+
 
 <p align="left">𝑰❤️𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -10,7 +11,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/94838711/174662751-51e38647-9dc7-4364-8f94-9057f3cb823d.gif" width="40"> Entre em contato comigo
 <div align="left">
-  <a href="https://www.linkedin.com/in/ana-karine-739b94142/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" width="42" alt="linkedin logo" /></a>
+  <a href="https://www.linkedin.com/in/ana-karine-silva-11183a364/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" width="42" alt="linkedin logo" /></a>
  <a href = "mailto:karinesantos364@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="42" alt="gmail logo"  /></a>
   <a href = "https://api.whatsapp.com/send?phone=5586988088276"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" width="42" alt="whatsapp logo"  /></a>
 </div>
