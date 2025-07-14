@@ -1,11 +1,11 @@
 
-<h2> Hey, bem vindo! Eu sou <a href="https://www.linkedin.com/in/ana-karine-739b94142/">Ana Karine</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Olá, bem vindo! Eu sou <a href="https://www.linkedin.com/in/ana-karine-739b94142/">Ana Karine</a> </h2>
 
 <p align="left">𝑰❤️𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em> - Web Developer Front-end pela<a href="https://www.labenu.com.br/"> Labenu </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>- Sempre pronta para aplicar meus conhecimentos e dedicação em uma oportunidade que me proporcione novas experiências e aprendizados. <img src="https://user-images.githubusercontent.com/94838711/174660074-fa0500ec-44b1-44cc-8778-c46cb8c4012a.gif" height="20"> 
+<p><em> - Web Developer Front-end pela<a href="https://www.labenu.com.br/"> Labenu </a>
+</br>- Sempre pronta para aplicar meus conhecimentos e dedicação em uma oportunidade que me proporcione novas experiências e aprendizados.
 </em></p>
 
 ### <img src="https://user-images.githubusercontent.com/94838711/174662751-51e38647-9dc7-4364-8f94-9057f3cb823d.gif" width="40"> Entre em contato comigo
@@ -15,7 +15,7 @@
   <a href = "https://api.whatsapp.com/send?phone=5586988088276"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" width="42" alt="whatsapp logo"  /></a>
 </div>
  
- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
+ ### Um pouco sobre mim...  
  
  ```javascript
 const Karine = {
