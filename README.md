@@ -2,10 +2,10 @@
 <h2> Olá, bem vindo! Eu sou <a href="https://www.linkedin.com/in/ana-karine-silva-11183a364/">Ana Karine</a> </h2>
 
 
-<p align="left">𝑰❤️𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</p>
+<p align="left">𝑰❤️Full Stack 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</p>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em> - Web Developer Front-end pela<a href="https://www.labenu.com.br/"> Labenu </a>
+<p><em> - Web Developer Full Stack pela<a href="https://www.labenu.com.br/"> Labenu </a>
 </br>- Sempre pronta para aplicar meus conhecimentos e dedicação em uma oportunidade que me proporcione novas experiências e aprendizados.
 </em></p>
 
@@ -20,7 +20,7 @@
  
  ```javascript
 const Karine = {
-  tecnologias: [Javascript, Typescript, HTML, CSS],
+  tecnologias: [Javascript, Typescript, HTML, CSS, Node.js, MySQL, Jest, Express],
   ferramentas: [React JS, Hooks, Global Context, Styled-Components, Axios, 
   Git, GitHub, GitLab, API Rest, Metodologias Ágeis], 
   desafio: "Buscar constantemente me aperfeiçoar e aprofundar meus conhecimentos em tecnologia".
