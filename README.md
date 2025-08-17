@@ -10,7 +10,7 @@
 
 ---  
 
-### 🛠️ Tecnologias & Ferramentas  
+### Tecnologias & Ferramentas  
 
 **Front-end:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
@@ -36,7 +36,7 @@
 
 ---  
 
-### 📫 Entre em contato!  
+### Entre em contato!  
 <div align="left">  
   <a href="https://www.linkedin.com/in/ana-karine-silva-11183a364/" target="_blank">  
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" width="42" alt="LinkedIn" />  
@@ -51,7 +51,7 @@
 
 ---  
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <div style="display: inline_block">  
   <a href="https://github.com/AnaKarine27">  
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=AnaKarine27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
