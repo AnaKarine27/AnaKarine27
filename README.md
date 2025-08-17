@@ -1,11 +1,10 @@
-# Olá, bem-vindo(a)! Eu sou [Ana Karine dos Santos Silva](https://www.linkedin.com/in/ana-karine-silva-11183a364/) 👋  
+# Olá, bem-vindo(a)! Eu sou [Ana Karine](https://www.linkedin.com/in/ana-karine-silva-11183a364/) 👋  
 
-<p align="left">💻 Desenvolvedora Full Stack em formação | 🚀 Transição de carreira para Tecnologia</p>  
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">  
+<p align="left">💻 Desenvolvedora Full Stack | Sistemas para Internet</p>  
 
 ### Sobre mim  
-- 🎓 Estudante de **Sistemas para Internet** no IFMA (3º/5 período)  
-- 📚 Formada em **Desenvolvimento Web Full Stack** pela [Labenu](https://www.labenu.com.br/) (1000+ horas de experiência prática)  
+- 🎓 Estudante de **Sistemas para Internet** no IFMA (3º/5º período)  
+- 📚 Formada em **Desenvolvimento Web Full Stack**
 - 🔍 Buscando oportunidades como **Desenvolvedora Júnior ou Estagiária**  
 - ✨ Apaixonada por resolver problemas e criar soluções eficientes  
 
@@ -14,34 +13,26 @@
 ### 🛠️ Tecnologias & Ferramentas  
 
 **Front-end:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" title="Redux" />
+<img src="https://styled-components.com/logo.png" width="50" title="Styled Components" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" /> 
 
 **Back-end:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express" style="background: white; padding: 5px; border-radius: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" title="Jest" />
 
 **Outras:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)  
-
----  
-
-### 📌 Projetos Acadêmicos & Habilidades  
-- **Modelagem de dados**: MER, Modelo Relacional e simulações com MySQL  
-- **Estruturas de dados**: Listas, filas, pilhas, dicionários e hashs  
-- **Desenvolvimento web**: Páginas responsivas com HTML/CSS/JS, semântica e acessibilidade  
-- **Metodologias ágeis**: Scrum e Kanban  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
+</div>
 
 ---  
 
