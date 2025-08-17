@@ -1,6 +1,6 @@
 # Olá, bem-vindo(a)! Eu sou [Ana Karine](https://www.linkedin.com/in/ana-karine-silva-11183a364/) 👋  
 
-<p align="left">💻 Desenvolvedora Full Stack | Sistemas para Internet</p>  
+<p align="left">Desenvolvedora Full Stack ❤️</p>  
 
 ### Sobre mim  
 - 🎓 Estudante de **Sistemas para Internet** no IFMA (3º/5º período)  
