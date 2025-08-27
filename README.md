@@ -4,7 +4,7 @@
 
 ### Sobre mim  
 - 🎓 Estudante de **Sistemas para Internet** no IFMA (3º/5º período)  
-- 📚 Formada em **Desenvolvimento Web Full Stack**
+- 📚 **Desenvolvimento Web Full Stack**
 - 🔍 Buscando oportunidades como **Desenvolvedora Júnior ou Estagiária**  
 - ✨ Apaixonada por resolver problemas e criar soluções eficientes  
 
