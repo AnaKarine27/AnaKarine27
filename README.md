@@ -4,7 +4,7 @@
 
 ### Sobre mim  
 - 🎓 Estudante de **Sistemas para Internet** no IFMA (3º/5º período)  
-- 📚 **Desenvolvimento Web Full Stack**
+- 📚 **Desenvolvedora Full Stack**
 - 🔍 Buscando oportunidades como **Desenvolvedora Júnior ou Estagiária**  
 - ✨ Apaixonada por resolver problemas e criar soluções eficientes  
 
@@ -21,10 +21,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" /> 
 
-**Back-end:**  
+**Back-end:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express" style="background: white; padding: 5px; border-radius: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQL" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" title="Jest" />
 
 **Outras:**  
