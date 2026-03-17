@@ -3,7 +3,7 @@
 <p align="left">Desenvolvedora Full Stack ❤️</p>  
 
 ### Sobre mim  
-- 🎓 Estudante de **Sistemas para Internet** no IFMA (3º/5º período)  
+- 🎓 Estudante de **Sistemas para Internet** no IFMA (4º/5º período)  
 - 📚 **Desenvolvedora Full Stack**
 - 🔍 Buscando oportunidades como **Desenvolvedora Júnior ou Estagiária**  
 - ✨ Apaixonada por resolver problemas e criar soluções eficientes  
